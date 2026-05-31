@@ -52,5 +52,3 @@ MobileNetV2 achieved the strongest overall performance and eliminated false nega
 ## Author
 
 David Alvarado
-Master of Science in Data Science
-Bellevue University
